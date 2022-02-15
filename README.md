@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulGourisetty
 - 🌱 I’m currently perusing AIML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 19BCS6014@cuchd.in
 
 <!---
 RahulGourisetty/RahulGourisetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
